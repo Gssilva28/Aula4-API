@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+
+h1, h2, h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: blue;
+}
+
+a:hover{
+    background-color: tomato;
+}
